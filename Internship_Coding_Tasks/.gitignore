@@ -1,0 +1,20 @@
+# Compiled Java class files
+java/*.class
+
+# TypeScript build output
+typescript/dist/
+typescript/node_modules/
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*

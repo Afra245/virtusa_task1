@@ -1,0 +1,15 @@
+{
+  "name": "typescript-tasks",
+  "version": "1.0.0",
+  "description": "TypeScript internship coding tasks",
+  "scripts": {
+    "palindrome": "ts-node palindrome.ts",
+    "wordFrequency": "ts-node wordFrequency.ts",
+    "factorial": "ts-node factorial.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
